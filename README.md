@@ -167,10 +167,8 @@ PEM-CTF is designed to run on Kali Linux but can also run on other systems that 
 
 ### 1. Clone the repository
 
-Replace `YOUR_USERNAME` with the GitHub username hosting this repository.
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/pem-ctf.git
+git clone https://github.com/Maloyroyorko/pem-ctf.git
 cd pem-ctf
 ```
 
